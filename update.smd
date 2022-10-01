@@ -1,0 +1,11 @@
+# This is written in Starklog markdown.
+# Any line that starts with a hashtag will be ignored by the program.
+# An @ defines a version number that'll be checked by the program.
+# [] gives a brief explanation of the update.
+# An - will give details about the update.
+
+@ 1.0.1
+[General improvements and bugfixes]
+- Added a 1 to the version numver
+- Pretty much nothing
+- Very relevant
